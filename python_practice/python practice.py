@@ -69,7 +69,6 @@
 # print(a.upper())
 # print(a.lower())
 
-#Sort unique words alphanumerically
 
 
 
@@ -95,6 +94,7 @@ print(x)
 # x= "hello welcome tok vn2"
 # print(x.split("o"))
  
+# Create a string made of the first, middle and last character       
 str= "saravana"
 res=str[0]
 l = len(str)
